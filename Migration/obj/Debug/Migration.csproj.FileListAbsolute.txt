@@ -1,0 +1,14 @@
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\bin\Debug\Migration.exe.config
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\bin\Debug\Migration.exe
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\bin\Debug\Migration.pdb
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\obj\Debug\Migration.csprojResolveAssemblyReference.cache
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\obj\Debug\Migration.Form1.resources
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\obj\Debug\Migration.Properties.Resources.resources
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\obj\Debug\Migration.csproj.GenerateResource.Cache
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\obj\Debug\Migration.exe
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\obj\Debug\Migration.pdb
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\bin\Debug\office.dll
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\bin\Debug\Microsoft.Vbe.Interop.dll
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\bin\Debug\Microsoft.Office.Interop.Excel.xml
+c:\users\brucezhao\documents\visual studio 2013\Projects\Migration\Migration\bin\Debug\office.xml
